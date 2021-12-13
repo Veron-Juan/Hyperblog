@@ -1,0 +1,25 @@
+[33mcommit 1f61dfacd70f72754a36d1fd87ffc2ef93ae0fe7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan Veron <juan_juve97@hotmail.com>
+Date:   Mon Dec 13 17:38:00 2021 -0300
+
+    Agregamos el cargo de la persona
+    
+    la persona es freddy
+
+[33mcommit e268decb068ca3b03cd9699142e5637574c86cdf[m
+Author: Juan Veron <juan_juve97@hotmail.com>
+Date:   Mon Dec 13 17:35:57 2021 -0300
+
+    Agregamos un cambio a su estatura
+
+[33mcommit 7be55ebb9f34500c14a87b0f5f557a967b497f01[m
+Author: Juan Veron <juan_juve97@hotmail.com>
+Date:   Mon Dec 13 17:25:33 2021 -0300
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit bb7fba1394429ebe024d3394c0290144958f77f1[m
+Author: Juan Veron <juan_juve97@hotmail.com>
+Date:   Mon Dec 13 17:16:01 2021 -0300
+
+    Este es el primer commit de este archivo
